@@ -1,1 +1,2 @@
 # RAG-with-Langchain
+This is a repo where I am documenting my learning journey of building various LLM based applications and also implementing RAG. Frameworks used are LangChain and LangGraph. Observability: LangSmith
